@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DioToDoList</string>
+    <string name="tasks">Tarefas</string>
+    <string name="add">Adicionar tarefas</string>
+    <string name="hint_title">Titulo</string>
+    <string name="hint_data">Data</string>
+    <string name="hint_hour">Hora</string>
+    <string name="create_task">Criar Tarefa</string>
+    <string name="cancel_task">Cancelar</string>
+    <string name="edit_option">Editar</string>
+    <string name="delete_option">Deletar</string>
+    <string name="nao_tem_tarefa">Ops! Você não possui\n nenhuma tarefa</string>
+</resources>
